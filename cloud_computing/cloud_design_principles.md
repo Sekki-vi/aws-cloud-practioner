@@ -3,6 +3,7 @@
 ## Design for Failure
 
 - Plan for failure
+- Remove single points of failure within a system
 
 ## Decouple Components
 
