@@ -30,7 +30,7 @@
 - manages the control place for you, but worker nodes are still the users responsibility
 - unless they decide to use fargate
 
-# ECS vs EKS
+## ECS vs EKS
 - ECS is unique to AWS
 - EKS is open source
 - ECS has a simpler architecture
